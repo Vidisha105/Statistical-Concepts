@@ -1,6 +1,6 @@
-Q. Let’s say that you work at a food delivery company. You’re tasked with discovering how late the late orders actually are.
-Which is a better metric to look at? The average or the median?
+**Q. Let’s say that you work at a food delivery company. You’re tasked with discovering how late the late orders actually are.
+1. Which is a better metric to look at? The average or the median?**
 A. The distribution will be right skewed and mean is more sensitive to extreme observation or outliers.
 
-What does that tell us about the late orders?
+**2. What does that tell us about the late orders?**
 A. There would be very few orders that are super late most of them would be few minutes late with outliers which is uncommon.
